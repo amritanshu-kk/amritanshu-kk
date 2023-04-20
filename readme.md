@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋! Glad to see you here :heart:</h1>
-<h3 align="center">I'm a developer having interests in automation , datascience , deeplearning, full stack web development :star_struck:</h3>
+<h3 align="center">I'm a developer having interests in blockchain, automation , datascience , deeplearning, full stack web development :star_struck:</h3>
 
 - 📝 I regulary write articles on [thealphaking.medium.com](https://thealphaking.medium.com/)
 - 📫 I would enjoy listening to your thoughts and ideas over a cup of coffee, please connect at **amritanshu26dec@gmail.com**
