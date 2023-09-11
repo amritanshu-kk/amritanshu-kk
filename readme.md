@@ -19,7 +19,7 @@
 - [How to write good git commit message](https://thealphaking.medium.com/how-to-write-a-good-git-commit-message-6e38a717a5a3)
 - [Namespaces in C++](https://thealphaking.medium.com/namespaces-in-c-978eb47b0d0c)
 - [1xxHTTP status codes : Informational ](https://thealphaking.medium.com/1xx-http-status-codes-informational-80818b004f8f)
-- [Creating a hotel revenue management system] (https://thealphaking.medium.com/creating-a-hotel-revenue-management-system-from-scratch-7245d4eebcf2)
+- [Creating a hotel revenue management system]([https://thealphaking.medium.com/namespaces-in-c-978eb47b0d0c](https://thealphaking.medium.com/creating-a-hotel-revenue-management-system-from-scratch-7245d4eebcf2))
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
